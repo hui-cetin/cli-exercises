@@ -1,0 +1,2 @@
+# cli-exercises
+Random experiments
